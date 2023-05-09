@@ -17,7 +17,7 @@ set cursorline
 " constrain curson to middle of screen
 set scrolloff=10
 " turn of text wrapping
-set nowrap
+" set nowrap
 " incremental search highlight
 set incsearch
 " search settings
